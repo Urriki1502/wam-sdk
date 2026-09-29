@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "suite_version": "0.1.0",
+  "profile": "selftest",
+  "verdict": "pass",
+  "run_error": null,
+  "target_binary_sha256": null,
+  "counts": {
+    "pass": 33,
+    "fail": 0,
+    "error": 0,
+    "not_run": 0
+  },
+  "cases": [
+    {
+      "id": "SDK-001",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-002",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-003",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-004",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-005",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-006",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-007",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-008",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-009",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-010",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-011",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-012",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-013",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-014",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-015",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-016",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-017",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-018",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-019",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-020",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-021",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-022",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-023",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-024",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-025",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-026",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-027",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-028",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-029",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-030",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-031",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-032",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "SDK-033",
+      "status": "pass",
+      "code": ""
+    }
+  ]
+}

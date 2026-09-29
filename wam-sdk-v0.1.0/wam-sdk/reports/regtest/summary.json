@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "suite_version": "0.1.0",
+  "profile": "regtest",
+  "verdict": "pass",
+  "run_error": null,
+  "target_binary_sha256": "625609c08afef441e9dddd71330dcab1cec112d6fabe361769b9907f0efe7ab4",
+  "counts": {
+    "pass": 13,
+    "fail": 0,
+    "error": 0,
+    "not_run": 0
+  },
+  "cases": [
+    {
+      "id": "LIVE-001",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-002",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-003",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-004",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-005",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-006",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-007",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-008",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-009",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-010",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-011",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-012",
+      "status": "pass",
+      "code": ""
+    },
+    {
+      "id": "LIVE-013",
+      "status": "pass",
+      "code": ""
+    }
+  ]
+}
